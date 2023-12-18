@@ -40,6 +40,8 @@ public class CoreJavaBrushUp {
 		for(String s: name) {
 			System.out.println("Enhanced for loop output: " + s);
 		}
+		
+		System.out.println("testing git commands - US guy");
 
 	}
 
