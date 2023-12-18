@@ -48,6 +48,7 @@ public class CoreJavaBrushup2 {
 		String[] name = {"shalini","raja","tulasi"};
 		List<String> nameArrayList = Arrays.asList(name);
 		System.out.println(nameArrayList.contains("tulasi"));
+		System.out.println("testing git commands");
 	}
 
 }
